@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# Poetry
+.venv/
+
+# VS Code
+.vscode/
+
+# logs
+*.log
+
+# Сертификаты
+*.pem
+*.crt
+
+# барахло
+proffMod/
